@@ -1,48 +1,48 @@
 <div align='center'>
 <h1> Data structure </h1>
-<p> This repository contains data structure implemented for a second year's computer science subject </p>
+<p> This repository contains the implemented methods we studied in Data Structure </p>
 </div>
 
 ---
 
-<h3> :pushpin: About </h3>
+<h3> &#128221; About </h3>
   <div>
 &nbsp;&nbsp; The structures were implemented in Java with the NetBeans IDE
   </div>
 
-<h3> :books: Structures </h3>
+<h3> 💼 Structures </h3>
   <div>
     <ul>
-      <li> Linear
+      <li> &#128194; Linear
         <ul>
-          <li> Queue </li>
-          <li> Stack </li>
-          <li> Linked List </li>
+          <li> &#9989; Queue </li>
+          <li> &#9989; Stack </li>
+          <li> &#9989; Linked List </li>
         </ul>
       </li>
-      <li> Non-linear
+      <li> &#128194; Non-linear
         <ul>
-          <li> Disordered
+          <li> &#128194; Disordered
             <ul>
-              <li> Binary tree </li>
-              <li> Generic tree </li>
+              <li> &#9989; Binary tree </li>
+              <li> &#9989; Generic tree </li>
             </ul>
           </li>
-          <li> Ordered
+          <li> &#128194; Ordered
             <ul>
-              <li> Hash </li>
-              <li> Heap </li>
-              <li> Binary search tree </li>
-              <li> Balanced binary search tree </li>
+              <li> &#9989; Hash </li>
+              <li> &#9989; Heap </li>
+              <li> &#9989; Binary search tree </li>
+              <li> &#9989; Balanced binary search tree </li>
             </ul>
           </li>
         </ul>
       </li>
-      <li> And some testing! </li>
+      <li> &#128194; And some testing! </li>
     </ul>
   </div>
   
-<h3> :speech_balloon: Contact </h3>
+<h3> &#128235; Contact </h3>
   <div>
-&nbsp;&nbsp; Feel free to use the code or send ideas to improve it to the email located in my <a href='https://github.com/facundoMunoz' >account</a>
+&nbsp;&nbsp; If you have any issue with this repository or want to make any comments just email here -> <a href='https://github.com/DevJuani' >account</a>
   </div>
